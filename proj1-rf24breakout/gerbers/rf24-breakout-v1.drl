@@ -1,0 +1,31 @@
+M48
+;DRILL file {KiCad (2015-11-17 BZR 6321)-product} date Tue 01 Dec 2015 12:21:34 PM PST
+;FORMAT={-:-/ absolute / inch / decimal}
+FMAT,2
+INCH,TZ
+T1C0.030
+T2C0.040
+%
+G90
+G05
+M72
+T1
+X6.9Y-4.1
+X6.9Y-4.2
+X6.9Y-4.3
+X6.9Y-4.4
+X7.Y-4.1
+X7.Y-4.2
+X7.Y-4.3
+X7.Y-4.4
+T2
+X6.025Y-3.9
+X6.125Y-3.9
+X6.225Y-3.9
+X6.325Y-3.9
+X6.425Y-3.9
+X6.525Y-3.9
+X6.625Y-3.9
+X6.725Y-3.9
+T0
+M30
