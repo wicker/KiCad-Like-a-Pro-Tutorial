@@ -3,6 +3,5 @@
 # Backup files
 _autosave*
 *.bak
-*cache.lib
 *.kicad_pcb-bak
 
